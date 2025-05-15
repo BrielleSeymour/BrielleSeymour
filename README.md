@@ -1,4 +1,4 @@
-## Hi 👋 I'm Brielle Seymour
+<h1 align="center">Hi 👋 I'm Brielle Seymour</h1>
 
 <!--
 **BrielleSeymour/BrielleSeymour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!--<h1 align="center">Hi 👋 I'm Brielle Seymour</h1> -->
 
-# 💫 About Me:
+## 💫 About Me:
 I am a 
 
 ## 🚀 What I'm Up To
